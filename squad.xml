@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+<squad nick="4ODZ">
+	<name>4th ORION Detachment "Zephyr"</name>
+	<email>none</email>
+	<web>none</web>
+	<picture>logo.paa</picture>
+	<title>Use this e.g. for your squads name or your squads URL</title>
+  	<member id="76561198060562222" nick="Jade [4ODZ]">
+		<name>none</name>
+		<email>none</email>
+		<icq>none</icq>
+		<remark>none</remark>
+	</member>
+</squad
